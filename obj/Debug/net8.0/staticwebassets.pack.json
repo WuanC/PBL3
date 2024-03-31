@@ -1,0 +1,601 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PBL3.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PBL3.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\css\\basic.css",
+      "PackagePath": "staticwebassets\\AdminAsset\\css\\basic.css"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\css\\bootstrap-fileupload.min.css",
+      "PackagePath": "staticwebassets\\AdminAsset\\css\\bootstrap-fileupload.min.css"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\css\\bootstrap-social.css",
+      "PackagePath": "staticwebassets\\AdminAsset\\css\\bootstrap-social.css"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\AdminAsset\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\css\\custom.css",
+      "PackagePath": "staticwebassets\\AdminAsset\\css\\custom.css"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\css\\error.css",
+      "PackagePath": "staticwebassets\\AdminAsset\\css\\error.css"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\AdminAsset\\css\\font-awesome.css"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\css\\invoice.css",
+      "PackagePath": "staticwebassets\\AdminAsset\\css\\invoice.css"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\css\\prettyPhoto.css",
+      "PackagePath": "staticwebassets\\AdminAsset\\css\\prettyPhoto.css"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\css\\pricing.css",
+      "PackagePath": "staticwebassets\\AdminAsset\\css\\pricing.css"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\css\\wizard\\jquery.steps.css",
+      "PackagePath": "staticwebassets\\AdminAsset\\css\\wizard\\jquery.steps.css"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\css\\wizard\\normalize.css",
+      "PackagePath": "staticwebassets\\AdminAsset\\css\\wizard\\normalize.css"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\css\\wizard\\wizardMain.css",
+      "PackagePath": "staticwebassets\\AdminAsset\\css\\wizard\\wizardMain.css"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\AdminAsset\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\AdminAsset\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\AdminAsset\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\AdminAsset\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\AdminAsset\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\AdminAsset\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\AdminAsset\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\AdminAsset\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\AdminAsset\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\demoUpload.jpg",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\demoUpload.jpg"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\logo-invoice.png",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\logo-invoice.png"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\portfolio\\b.jpg",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\portfolio\\b.jpg"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\portfolio\\c.png",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\portfolio\\c.png"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\portfolio\\d.jpg",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\portfolio\\d.jpg"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\portfolio\\e.jpg",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\portfolio\\e.jpg"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\portfolio\\g.jpg",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\portfolio\\g.jpg"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\portfolio\\h.jpg",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\portfolio\\h.jpg"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\prettyPhoto\\dark_rounded\\btnNext.png",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\prettyPhoto\\dark_rounded\\btnNext.png"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\prettyPhoto\\dark_rounded\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\prettyPhoto\\dark_rounded\\btnPrevious.png"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\prettyPhoto\\dark_rounded\\contentPattern.png",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\prettyPhoto\\dark_rounded\\contentPattern.png"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\prettyPhoto\\dark_rounded\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\prettyPhoto\\dark_rounded\\default_thumbnail.gif"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\prettyPhoto\\dark_rounded\\loader.gif",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\prettyPhoto\\dark_rounded\\loader.gif"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\prettyPhoto\\dark_rounded\\sprite.png",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\prettyPhoto\\dark_rounded\\sprite.png"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\prettyPhoto\\dark_square\\btnNext.png",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\prettyPhoto\\dark_square\\btnNext.png"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\prettyPhoto\\dark_square\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\prettyPhoto\\dark_square\\btnPrevious.png"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\prettyPhoto\\dark_square\\contentPattern.png",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\prettyPhoto\\dark_square\\contentPattern.png"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\prettyPhoto\\dark_square\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\prettyPhoto\\dark_square\\default_thumbnail.gif"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\prettyPhoto\\dark_square\\loader.gif",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\prettyPhoto\\dark_square\\loader.gif"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\prettyPhoto\\dark_square\\sprite.png",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\prettyPhoto\\dark_square\\sprite.png"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\prettyPhoto\\default\\default_thumb.png",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\prettyPhoto\\default\\default_thumb.png"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\prettyPhoto\\default\\loader.gif",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\prettyPhoto\\default\\loader.gif"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\prettyPhoto\\default\\sprite.png",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\prettyPhoto\\default\\sprite.png"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\prettyPhoto\\default\\sprite_next.png",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\prettyPhoto\\default\\sprite_next.png"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\prettyPhoto\\default\\sprite_prev.png",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\prettyPhoto\\default\\sprite_prev.png"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\prettyPhoto\\default\\sprite_x.png",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\prettyPhoto\\default\\sprite_x.png"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\prettyPhoto\\default\\sprite_y.png",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\prettyPhoto\\default\\sprite_y.png"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\prettyPhoto\\facebook\\btnNext.png",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\prettyPhoto\\facebook\\btnNext.png"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\prettyPhoto\\facebook\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\prettyPhoto\\facebook\\btnPrevious.png"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\prettyPhoto\\facebook\\contentPatternBottom.png",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\prettyPhoto\\facebook\\contentPatternBottom.png"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\prettyPhoto\\facebook\\contentPatternLeft.png",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\prettyPhoto\\facebook\\contentPatternLeft.png"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\prettyPhoto\\facebook\\contentPatternRight.png",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\prettyPhoto\\facebook\\contentPatternRight.png"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\prettyPhoto\\facebook\\contentPatternTop.png",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\prettyPhoto\\facebook\\contentPatternTop.png"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\prettyPhoto\\facebook\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\prettyPhoto\\facebook\\default_thumbnail.gif"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\prettyPhoto\\facebook\\loader.gif",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\prettyPhoto\\facebook\\loader.gif"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\prettyPhoto\\facebook\\sprite.png",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\prettyPhoto\\facebook\\sprite.png"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\prettyPhoto\\light_rounded\\btnNext.png",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\prettyPhoto\\light_rounded\\btnNext.png"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\prettyPhoto\\light_rounded\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\prettyPhoto\\light_rounded\\btnPrevious.png"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\prettyPhoto\\light_rounded\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\prettyPhoto\\light_rounded\\default_thumbnail.gif"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\prettyPhoto\\light_rounded\\loader.gif",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\prettyPhoto\\light_rounded\\loader.gif"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\prettyPhoto\\light_rounded\\sprite.png",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\prettyPhoto\\light_rounded\\sprite.png"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\prettyPhoto\\light_square\\btnNext.png",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\prettyPhoto\\light_square\\btnNext.png"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\prettyPhoto\\light_square\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\prettyPhoto\\light_square\\btnPrevious.png"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\prettyPhoto\\light_square\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\prettyPhoto\\light_square\\default_thumbnail.gif"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\prettyPhoto\\light_square\\loader.gif",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\prettyPhoto\\light_square\\loader.gif"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\prettyPhoto\\light_square\\sprite.png",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\prettyPhoto\\light_square\\sprite.png"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\slideshow\\1.jpg",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\slideshow\\1.jpg"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\slideshow\\2.jpg",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\slideshow\\2.jpg"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\slideshow\\3.jpg",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\slideshow\\3.jpg"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\user.gif",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\user.gif"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\img\\user.png",
+      "PackagePath": "staticwebassets\\AdminAsset\\img\\user.png"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\js\\bootstrap-fileupload.js",
+      "PackagePath": "staticwebassets\\AdminAsset\\js\\bootstrap-fileupload.js"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\AdminAsset\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\js\\custom.js",
+      "PackagePath": "staticwebassets\\AdminAsset\\js\\custom.js"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\js\\galleryCustom.js",
+      "PackagePath": "staticwebassets\\AdminAsset\\js\\galleryCustom.js"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\js\\jquery-1.10.2.js",
+      "PackagePath": "staticwebassets\\AdminAsset\\js\\jquery-1.10.2.js"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\js\\jquery.metisMenu.js",
+      "PackagePath": "staticwebassets\\AdminAsset\\js\\jquery.metisMenu.js"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\js\\jquery.mixitup.min.js",
+      "PackagePath": "staticwebassets\\AdminAsset\\js\\jquery.mixitup.min.js"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\js\\jquery.prettyPhoto.js",
+      "PackagePath": "staticwebassets\\AdminAsset\\js\\jquery.prettyPhoto.js"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\js\\wizard\\jquery.cookie-1.3.1.js",
+      "PackagePath": "staticwebassets\\AdminAsset\\js\\wizard\\jquery.cookie-1.3.1.js"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\js\\wizard\\jquery.steps.js",
+      "PackagePath": "staticwebassets\\AdminAsset\\js\\wizard\\jquery.steps.js"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\AdminAsset\\js\\wizard\\modernizr-2.6.2.min.js",
+      "PackagePath": "staticwebassets\\AdminAsset\\js\\wizard\\modernizr-2.6.2.min.js"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\.netCoreProject\\PBL3\\PBL3\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PBL3.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PBL3.props",
+      "PackagePath": "build\\PBL3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PBL3.props",
+      "PackagePath": "buildMultiTargeting\\PBL3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PBL3.props",
+      "PackagePath": "buildTransitive\\PBL3.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

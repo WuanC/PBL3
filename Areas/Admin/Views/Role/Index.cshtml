@@ -1,0 +1,93 @@
+﻿
+@{
+    ViewData["Title"] = "RoleManger";
+
+}
+@model List<Role>
+
+<div id="page-wrapper">
+    <div id="page-inner">
+        <div class="row">
+            <div class="col-md-12">
+                <h1 class="page-head-line">Danh sách role</h1>
+       
+
+            </div>
+        </div>
+
+        <!-- /. ROW  -->
+        <div class="row">
+    
+            <div class="col-md-12">
+                <!--    Context Classes  -->
+                <div class="panel panel-default">
+
+                    <div class="panel-heading">
+                        <a asp-controller="Role" asp-action="AddRole" class="btn btn-info">Thêm role</a>
+                    </div>
+
+                    <div class="panel-body">
+                        <div class="table-responsive">
+                            <table class="table">
+                                <thead>
+                                    <tr>
+                                        <th>Số thứ tự</th>
+                                        <th>Tên role</th>
+                                        <th>Xóa/Sửa</th>
+   
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @{
+                                        string color;
+                                        int i = 1;
+                                    }
+                                    @foreach(var item in Model)
+                                    {
+                                        @if(i % 2 == 0)
+                                        {
+                                            color = "success";
+                                        }
+                                        else
+                                        {
+                                            color = "warning";
+                                        }
+                                        <tr >
+                                            <td>@i</td>
+                                            <td>
+                                                @Html.DisplayFor(model => item.RoleName)
+                                            </td>
+                                            <td>
+                                                <a class="delete-link btn btn-danger" data-product-id="@item.RoleID" >Xóa</a>
+                                                <a asp-action="EditRole" asp-route-id="@item.RoleID" class="btn btn-warning">Sửa</a>
+                                            </td>
+                                          
+                                            @{
+                                                i++;
+                                            }
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+                <!--  end  Context Classes  -->
+            </div>
+        </div>
+        <!-- /. ROW  -->
+        @section Scripts {
+          
+            <script>
+                $(document).ready(function () {
+                    $('.delete-link').click(function (e) {
+                       /*  e.preventDefault(); */ // Ngừng hành động mặc định của link
+                        var productId = $(this).data('product-id'); // Lấy ID của sản phẩm
+                        if (confirm('Bạn có chắc chắn muốn xóa role này?')) {
+                            // Nếu người dùng chấp nhận, chuyển đến action Delete trong controller
+                            window.location.href = '@Url.Action("DeleteRole", "Role")/' + productId;
+                        }
+                    });
+                });
+            </script>
+        }

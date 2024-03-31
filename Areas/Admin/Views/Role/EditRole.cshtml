@@ -1,0 +1,43 @@
+﻿
+@{
+    ViewData["Title"] = "EditRole";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+@model Role
+
+<div id="page-wrapper">
+    <div id="page-inner">
+        <div class="row">
+            <div class="col-md-12">
+                <h1 class="page-head-line">Sửa role</h1>
+
+
+            </div>
+        </div>
+        <!-- /. ROW  -->
+        <div class="row">
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="panel panel-info">
+                    <div class="panel-body">
+                        <form role="form" asp-action="EditRole">
+                            <div class="form-group">
+                                <label>Tên role</label>
+
+                                <input type="hidden" asp-for="RoleID" />
+                                <input class="form-control" type="text" asp-for="@Model.RoleName">
+                            </div>
+                            <button type="submit" class="btn btn-info">Sửa </button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div>
+            <a asp-action="Index">Back to List</a>
+        </div>
+
+
+    </div>
+    <!-- /. PAGE INNER  -->
+</div>
+
