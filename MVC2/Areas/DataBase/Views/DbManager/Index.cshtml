@@ -1,0 +1,53 @@
+﻿@using Microsoft.EntityFrameworkCore
+@using System.Data
+@inject MVC2.Models.AppDbContext dbContext
+@{
+	var connect = dbContext.Database.GetDbConnection();
+	var dbname = connect.Database;
+	var can_connect = dbContext.Database.CanConnect();
+}
+<h1>Thông tin</h1>
+<p>Database: @dbname</p>
+<p>Source: @connect.DataSource</p>
+<p>Status: @connect.State</p>
+<h2>Danh sách migration</h2>
+<p>TRANG THAI PENDING</p>
+@foreach(var migration in dbContext.Database.GetPendingMigrations())
+{
+	<p>- @migration</p>
+}
+<p>TRANG THAI APPLIED</p>
+@foreach (var migration in dbContext.Database.GetAppliedMigrations())
+{
+	<p>- @migration</p>
+}
+@if (dbContext.Database.GetPendingMigrations().Any())
+{
+	<form method="post">
+		<button class="btn btn-success" asp-action="UpdateDb">
+			Tao Db
+		</button>
+	</form>
+
+}
+@if (can_connect)
+{
+ 	<h2>Cac Table</h2>
+	await dbContext.Database.OpenConnectionAsync();
+	var table = dbContext.Database.GetDbConnection().GetSchema("Tables");
+	@foreach(System.Data.DataRow row in table.Rows)
+	{
+		@row["TABLE_NAME"]
+	}
+	<div>
+		<a class="btn btn-danger" asp-action="DeleteDb">Xoa Database @dbname</a>
+	</div>
+
+}
+else
+{
+	<p class="alert alert-danger">Khong co kha nang ket noi den database</p>
+
+}
+
+
